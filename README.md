@@ -1,6 +1,6 @@
 # Hey there, I'm Prabhat 👋
 
-### AWS DevOps Intern | Cloud Enthusiast | Automation Advocate
+### AWS DevOps Professional | Cloud Enthusiast | Automation Advocate
 
 I am a quick learner and an aspiring professional, currently honing my skills in **Cloud**, **Networking**, **Coding**, and **DBMS**. My passion lies in building scalable and reliable infrastructure, automating workflows, and leveraging the power of cloud-native technologies.
 
